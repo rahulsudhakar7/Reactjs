@@ -1,0 +1,20 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "We are going to learn react from scratch with parcel bundles.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "author": "Rahul Sudhakar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
